@@ -1,0 +1,40 @@
+
+.text-white{ color: white; }
+
+.text-black{ color: #000000; }
+.text-black-imp{ color: #000000 !important; }
+
+.text-primary{
+    /* color: #f144a6;  OG*/
+    color: #ec52a9;
+}
+
+.text-baige{ color: #F2E2C4;  }
+.text-baige-imp{ color: #F2E2C4 !important; }
+
+.text-header{
+    /* color: #f144a6 !important; */
+    /* color: white !important;   */
+    /* font-kerning: normal;      */
+    letter-spacing: 2px;
+    margin-top: 2rem !important;
+}
+
+
+
+
+
+.subtile-text-shadow{
+    text-shadow: 3px 3px #0d3f37 !important;
+}
+.subtile-text-shadow-pink{
+    text-shadow: 3px 3px #bb3280 !important;
+}
+.subtile-text-shadow-2{
+    text-shadow: 3px 3px 5px rgba(27, 34, 33, 0.637) !important;
+}
+
+.text-banner{
+    font-size: 10rem !important;
+    text-shadow: 10px 5px 20px #0d3f37;
+}
